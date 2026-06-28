@@ -97,6 +97,36 @@ const ProductPage = () => {
       brand: 'CEAT',
       image: 'https://www.ceat.com/content/dam/ceat/product-images/4w/secura-drive/sku_60.png',
       description: 'Value all-season tyre with good performance'
+    },
+    { 
+      id: 10,
+      name: 'BKT TR 135', 
+      price: '$215.00', 
+      category: 'Tractor Rear', 
+      size: '16.9R30', 
+      brand: 'BKT',
+      image: 'https://5.imimg.com/data5/SELLER/Default/2023/6/316840362/YP/XT/TP/10259732/bkt-tractor-rear-tyre.jpg',
+      description: 'Heavy-duty rear tractor tyre designed for excellent traction and durability in field applications.'
+    },
+    { 
+      id: 11,
+      name: 'MRF Shatkti Xtra 4', 
+      price: '$189.00', 
+      category: 'Tractor Rear', 
+      size: '14.9R28', 
+      brand: 'MRF',
+      image: 'https://www.mrftyres.com/images/tyres/patterns/Shatkti-Xtra-4.png',
+      description: 'High-performance tractor tyre with an advanced lug pattern for superior grip and self-cleaning properties.'
+    },
+    { 
+      id: 12,
+      name: 'CEAT VARDA', 
+      price: '$172.00', 
+      category: 'Tractor Front', 
+      size: '6.00-16', 
+      brand: 'CEAT',
+      image: 'https://ceat.scene7.com/is/image/ceat/60-123?ts=1781713366596&wid=700&hei=700&fit=constrain',
+      description: 'Versatile front tractor tyre offering excellent steering control and flotation for diverse farming needs.'
     }
   ];
 
