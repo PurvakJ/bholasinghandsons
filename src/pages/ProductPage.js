@@ -105,7 +105,7 @@ const ProductPage = () => {
       category: 'Tractor Rear', 
       size: '16.9R30', 
       brand: 'BKT',
-      image: 'https://5.imimg.com/data5/SELLER/Default/2023/6/316840362/YP/XT/TP/10259732/bkt-tractor-rear-tyre.jpg',
+      image: 'https://khetigaadi.com/images/tyres/bkt-COMMANDER-TWIN-RIB-front.jpg',
       description: 'Heavy-duty rear tractor tyre designed for excellent traction and durability in field applications.'
     },
     { 
@@ -125,7 +125,7 @@ const ProductPage = () => {
       category: 'Tractor Front', 
       size: '6.00-16', 
       brand: 'CEAT',
-      image: 'https://ceat.scene7.com/is/image/ceat/60-123?ts=1781713366596&wid=700&hei=700&fit=constrain',
+      image: 'https://5.imimg.com/data5/SELLER/Default/2023/6/317274957/JI/IF/CQ/97801555/ceat-vardhan-rear-tractor-tyre.jpg',
       description: 'Versatile front tractor tyre offering excellent steering control and flotation for diverse farming needs.'
     }
   ];
