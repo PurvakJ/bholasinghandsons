@@ -169,7 +169,7 @@ const HomePage = () => {
   const specs = [
     { id: 'tire-sizes', title: 'Tire Sizes', desc: '12" to 22"' },
     { id: 'alloy-sizes', title: 'Alloy Sizes', desc: '13" to 22"' },
-    { id: 'tractor-rear', title: 'Tractor Rear', desc: '12-4-28 to 18-44-30' },
+    { id: 'tractor-rear', title: 'Tractor Rear', desc: '12-4-28 to 18-4-30' },
     { id: 'tractor-front', title: 'Tractor Front', desc: '6-16 to 12-4-24' },
   ];
 
